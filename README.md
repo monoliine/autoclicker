@@ -11,6 +11,6 @@ time.sleep(value)
 ```
 And than Select the value!
 
-### Thanks for checking me out, also you can find me here!
+# Thanks for checking me out, also you can find me here!
 
 [Official Website](https://monoliine.glitch.me/). :smiling_face_with_three_hearts:

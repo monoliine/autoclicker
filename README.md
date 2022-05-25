@@ -1,4 +1,4 @@
-# Autoclicker
+# Autoclicker (made with 12 lines of code!)
 0.10 version
  
 Made by a @monoline, 
